@@ -17,4 +17,9 @@ Ao longo do projeto, foram desenvolvidos dois arquivo .ipynb, ambos estarão aqu
 
 * <a href="https://colab.research.google.com/drive/1N54aoyl7W7gAPb-KcssLbPVvoWuLWPEE?usp=sharing" target="_blank">Modeling and Validating - Probability of Default (PD)</a>
 
-Além disso, o repositório apresenta também os dados que foram usados para fazer o treino e o teste e apresenta tanto aqueles dados ja tratados, como os dados brutos retirados do kaggle.
+Além disso, o repositório apresenta um link para os dados que estão dentro de uma pasta no drive (devido ao tamanho dos arquivos), estes foram usados para fazer o treino e o teste e apresenta tanto aqueles dados ja tratados, como os dados brutos retirados do <a href="https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv" target="_blank">Kaggle</a>.
+
+* Link para: <a href="https://drive.google.com/drive/folders/1XGbAAYNNdBOpZo2yP85pmrkerUNdtsD7?usp=sharing" target="_blank">Data Files</a>;
+* Link para: <a href="https://drive.google.com/file/d/1-1IrIArBixL7Ro0BiXeyJQkVOiL2181Q/view?usp=sharing" target="_blank">Download do Modelo .SAV</a>.
+
+
