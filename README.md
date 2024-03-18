@@ -1,16 +1,20 @@
 # Sobre este repositório
 
-Este repositório retrata um projeto pessoal construido para colocar em prática aquilo que aprendi durante os cursos que realizei da Udemy sobre Data Science e Machine Learning
+Este repositório retrata um projeto pessoal construido para colocar em prática aquilo que aprendi durante os cursos que realizei da Udemy sobre Data Science e Machine Learning.
 
 É a construção de um modelo de probabilidade de inadimplência baseado em dados históricos de empréstimo. Um projeto aprofundado, trabalhando diversas etapas da tarefa de um data scientist, tais como:
 
-* Coleta de dados
-* Organização dos dados
-* Limpeza dos dados
-* Modelagem estatística
-* Implementação de aprendizado de máquina com regressão logística
-* Avaliação do modelo
+* Coleta de dados;
+* Organização dos dados;
+* Limpeza dos dados;
+* Modelagem estatística;
+* Implementação de aprendizado de máquina com regressão logística;
+* Avaliação do modelo.
 
-O link para o Colab (ambiente onde foi desenvolvido o projeto) segue a seguir:
+Ao longo do projeto, foram desenvolvidos dois arquivo .ipynb, ambos estarão aqui no diretório inicial do repositório, mas o link de ambos os Colab (ambiente onde foi desenvolvido o projeto) seguirão aqui abaixo com hiperlink:
 
-[Link para o projeto](https://colab.research.google.com/drive/1IkdAwWmolBFtJZ2nXCm04-iFBjvEiEb6?usp=sharing)
+* <a href="https://colab.research.google.com/drive/1IkdAwWmolBFtJZ2nXCm04-iFBjvEiEb6?usp=sharing" target="_blank">Preparing - Probability of Default (PD)</a>
+
+* <a href="https://colab.research.google.com/drive/1N54aoyl7W7gAPb-KcssLbPVvoWuLWPEE?usp=sharing" target="_blank">Modeling and Validating - Probability of Default (PD)</a>
+
+Além disso, o repositório apresenta também os dados que foram usados para fazer o treino e o teste e apresenta tanto aqueles dados ja tratados, como os dados brutos retirados do kaggle.
