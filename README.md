@@ -10,3 +10,7 @@ Este repositório retrata um projeto pessoal construido para colocar em prática
 * Modelagem estatística
 * Implementação de aprendizado de máquina com regressão logística
 * Avaliação do modelo
+
+O link para o Colab (ambiente onde foi desenvolvido o projeto) segue a seguir:
+
+[Link para o projeto](https://colab.research.google.com/drive/1IkdAwWmolBFtJZ2nXCm04-iFBjvEiEb6?usp=sharing)
